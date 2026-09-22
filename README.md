@@ -1,0 +1,2 @@
+# ZMODEL_WITH_CDS_TND
+SAP ABAP Cloud Modelado con CDS
