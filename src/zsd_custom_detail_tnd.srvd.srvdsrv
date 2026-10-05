@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD - Custom Detail'
+define service ZSD_CUSTOM_DETAIL_TND {
+  expose ZCDS_CUSTOM_DETAIL_TND as Custom;
+}
